@@ -17,7 +17,7 @@ body{
 header{
     width: 100%;
     padding: 20px 8% 20px 0 ;
-    background-color: rgb(187, 216, 230);
+    background-color: rgb(249, 199, 97);
     position: fixed;
     top: 0;
     display: flex;
@@ -28,14 +28,13 @@ header{
 }
 
 a{
-    text-decoration: none;
     color: #305d3d;
     font-size: 15px;
     z-index: 10;
   
 }
 a:hover{
-　text-decoration: underline;
+　text-decoration: none;
 }
 
 ul{
