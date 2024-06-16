@@ -383,7 +383,11 @@ a.btn-border {
     margin: 0;
     padding: 20px 0 0 0;
    }
-
+     .footer01.mail{
+    color: #4c4a4a;
+    margin: 0;
+    padding: 20px 0 0 0;
+   }
 
    .wrapper{
     min-height: 100vh;
