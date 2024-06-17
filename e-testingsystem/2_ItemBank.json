@@ -1,0 +1,95 @@
+[
+  {
+    "question": "「英語」に対する自信度を選択してください.(1=全くない,2=あまりない,3=普通,4=ややある,5=非常にある)",
+    "choices": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "isconfidence": true
+  },
+  {
+    "question": "「世界史」に対する自信度を選択してください.(1=全くない,2=あまりない,3=普通,4=ややある,5=非常にある)",
+    "choices": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "isconfidence": true
+  },
+  {
+    "question": "''I don't feel well at all. I've got an awful headache.''<br> ''Why don't you take a___off today?I'll call your office and tell them you're not coming in.''",
+    "choices": [
+      "day",
+      "holiday",
+      "rest",
+      "work"
+    ],
+    "correct": 0,
+    "a": 0.447,
+    "b": 1.426
+  },
+  {
+    "question": "In Japanese cities there are many streets without names.<br>It is very____if you are a tourist.",
+    "choices": [
+      "careless",
+      "confusing",
+      "similar",
+      "unhappy"
+    ],
+    "correct": 1,
+    "a": 0.609,
+    "b": -0.282
+  },
+  {
+    "question": "Look! There are___number of birds in the tree.<br> Do you know what___number is?",
+    "choices": [
+      "a;a",
+      "the;the",
+      "the;a",
+      "a;the"
+    ],
+    "correct": 3,
+    "a": 1.335,
+    "b": -0.790
+  },
+  {
+    "question": "When I told Misako the news,she seemed____.",
+    "choices": [
+      "surprising",
+      "to have surprised",
+      "to surprise",
+      "surprised"
+    ],
+    "correct": 3,
+    "a": 0.542,
+    "b": 0.296
+  },
+  {
+    "question": "As soon as the star player come in,the game___.",
+    "choices": [
+      "had been excited",
+      "became excited",
+      "had been exciting",
+      "became exciting"
+    ],
+    "correct": 3,
+    "a": 0.793,
+    "b": -0.044
+  },
+  {
+    "question": "テスト全体の自信度を選択してください.(1=全くない,2=あまりない,3=普通,4=ややある,5=非常にある)",
+    "choices": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "isconfidence": true
+  }
+]
