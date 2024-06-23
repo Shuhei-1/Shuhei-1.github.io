@@ -325,9 +325,8 @@ button.btn {
 
 
 #margin{
-text-align: center;
- ; 
-
+    display: flex;
+    justify-content: center;
 }
 
 a.btn-border {
